@@ -1,4 +1,4 @@
-#include "wavefile.h"
+#include "wavfile.h"
 #include "math.h"
 
 const double pi=3.1415926535;

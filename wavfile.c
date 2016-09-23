@@ -5,7 +5,7 @@ For complete documentation, see:
 http://www.nd.edu/~dthain/courses/cse20211/fall2013/wavfile
 */
 
-#include "wavefile.h"
+#include "wavfile.h"
 
 #include <stdio.h>
 #include <stdlib.h>
